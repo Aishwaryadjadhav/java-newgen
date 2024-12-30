@@ -1,5 +1,7 @@
 package arrays;
 
+//WAP to square each element of an array.
+
 public class Array_squareOfElement {
 
 	public static void main(String[] args) {

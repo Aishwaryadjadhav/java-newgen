@@ -1,5 +1,8 @@
 package arrays;
 
+
+//WAP to get multiplication of all elements from given array
+
 public class Array_multiplication {
 
 	public static void main(String[] args) {
