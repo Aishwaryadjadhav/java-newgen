@@ -5,7 +5,7 @@ public class StringMethods {
 	 public static void main(String[] args) {
 
 	        String a = "Newgen SoftTech";
-
+ 
 	        //toUpperCase() and toLowerCase() method
 	        System.out.println("LowerCase a: " + a.toLowerCase());
 	        System.out.println("UpperCase a: " + a.toUpperCase());
